@@ -1,0 +1,513 @@
+{
+  "groups": {
+    "ПЗ-31": {
+      "schedule": {
+        "monday": [
+          {
+            "timeStart": "10:05",
+            "timeEnd": "11:25",
+            "subject": "Програмування для мобільних платформ",
+            "teacher": "Гавдульський",
+            "location": "810в В. н.к.",
+            "type": "Лабораторна",
+            "subgroup": "I"
+          },
+          {
+            "timeStart": "11:40",
+            "timeEnd": "13:00",
+            "subject": "Програмування для мобільних платформ",
+            "teacher": "Кутельмах",
+            "location": "411 В. н.к.",
+            "type": "Лекція",
+            "subgroup": "I"
+          },
+          {
+            "timeStart": "13:15",
+            "timeEnd": "14:35",
+            "subject": "Основи охорони праці та безпека життєдіяльності",
+            "teacher": "Литвиняк",
+            "location": "217 І. н.к.",
+            "type": "Лекція",
+            "subgroup": "I"
+          }
+        ],
+        "tuesday": [
+          {
+            "timeStart": "10:05",
+            "timeEnd": "11:25",
+            "subject": "Програмування для мобільних платформ",
+            "teacher": "Гавдульський",
+            "location": "809 В. н.к.",
+            "type": "Лабораторна",
+            "subgroup": "II"
+          },
+          {
+            "timeStart": "11:40",
+            "timeEnd": "13:00",
+            "subject": "Програмування для мобільних платформ",
+            "teacher": "Кутельмах",
+            "location": "411 В. н.к.",
+            "type": "Лекція",
+            "subgroup": "II"
+          },
+          {
+            "timeStart": "14:50",
+            "timeEnd": "16:10",
+            "subject": "Основи охорони праці та безпека життєдіяльності",
+            "teacher": "Литвиняк",
+            "location": "313 ІІІ. н.к.",
+            "type": "Практична",
+            "subgroup": "II"
+          }
+        ],
+        "wednesday": [
+          {
+            "timeStart": "10:05",
+            "timeEnd": "11:25",
+            "subject": "Цифрове опрацювання сигналів",
+            "teacher": "Гавриш",
+            "location": "411 В. н.к.",
+            "type": "Лекція",
+            "subgroup": "I"
+          },
+          {
+            "timeStart": "11:40",
+            "timeEnd": "13:00",
+            "subject": "Цифрове опрацювання сигналів",
+            "teacher": "Гавриш",
+            "location": "411 В. н.к.",
+            "type": "Лекція",
+            "subgroup": "I"
+          },
+          {
+            "timeStart": "13:15",
+            "timeEnd": "14:35",
+            "subject": "Цифрове опрацювання сигналів",
+            "teacher": "Гавриш",
+            "location": "810а В. н.к.",
+            "type": "Лабораторна",
+            "subgroup": "II"
+          },
+          {
+            "timeStart": "16:25",
+            "timeEnd": "17:45",
+            "subject": "Цифрове опрацювання сигналів",
+            "teacher": "Гавриш",
+            "location": "810г В. н.к.",
+            "type": "Лабораторна",
+            "subgroup": "II"
+          }
+        ],
+        "thursday": [
+          {
+            "timeStart": "10:05",
+            "timeEnd": "11:25",
+            "subject": "Цифрове опрацювання сигналів",
+            "teacher": "Гавриш",
+            "location": "411 В. н.к.",
+            "type": "Лекція",
+            "subgroup": "I"
+          },
+          {
+            "timeStart": "11:40",
+            "timeEnd": "13:00",
+            "subject": "Цифрове опрацювання сигналів",
+            "teacher": "Гавриш",
+            "location": "411 В. н.к.",
+            "type": "Лекція",
+            "subgroup": "I"
+          }
+        ]
+      }
+    },
+    "ПЗ-32": {
+      "schedule": {
+        "monday": [
+          {
+            "timeStart": "10:05",
+            "timeEnd": "11:25",
+            "subject": "Цифрове опрацювання сигналів",
+            "teacher": "Коцун",
+            "location": "303 ХХІХ н.к.",
+            "type": "Лабораторна"
+          },
+          {
+            "timeStart": "11:40",
+            "timeEnd": "13:00",
+            "subject": "Програмування для мобільних платформ",
+            "teacher": "Кутельмах",
+            "location": "411 В. н.к.",
+            "type": "Лекція"
+          },
+          {
+            "timeStart": "13:15",
+            "timeEnd": "14:35",
+            "subject": "Програмування для мобільних платформ",
+            "teacher": "Кутельмах",
+            "location": "809 В. н.к.",
+            "type": "Лабораторна"
+          }
+        ],
+        "tuesday": [
+          {
+            "timeStart": "11:40",
+            "timeEnd": "13:00",
+            "subject": "Програмування для мобільних платформ",
+            "teacher": "Кутельмах",
+            "location": "411 В. н.к.",
+            "type": "Лекція"
+          },
+          {
+            "timeStart": "13:15",
+            "timeEnd": "14:35",
+            "subject": "Основи охорони праці та безпека життєдіяльності",
+            "teacher": "Литвиняк",
+            "location": "307 ІІІ н.к.",
+            "type": "Лабораторна"
+          },
+          {
+            "timeStart": "14:50",
+            "timeEnd": "16:10",
+            "subject": "Програмування для мобільних платформ",
+            "teacher": "Кутельмах",
+            "location": "302 ХХХ н.к.",
+            "type": "Лабораторна"
+          }
+        ],
+        "wednesday": [
+          {
+            "timeStart": "9:00",
+            "timeEnd": "10:20",
+            "subject": "Інший предмет",
+            "teacher": "Викладач І.І.",
+            "location": "101 I н.к.",
+            "type": "Лекція"
+          },
+          {
+            "timeStart": "10:05",
+            "timeEnd": "11:25",
+            "subject": "Цифрове опрацювання сигналів",
+            "teacher": "Коцун",
+            "location": "303 ХХІХ н.к.",
+            "type": "Лабораторна"
+          }
+        ],
+        "thursday": [
+          {
+            "timeStart": "10:30",
+            "timeEnd": "11:50",
+            "subject": "Цифрове опрацювання сигналів",
+            "teacher": "Гавриш",
+            "location": "411 В. н.к.",
+            "type": "Лекція"
+          },
+          {
+            "timeStart": "11:40",
+            "timeEnd": "13:00",
+            "subject": "Цифрове опрацювання сигналів",
+            "teacher": "Гавриш",
+            "location": "411 В. н.к.",
+            "type": "Лекція"
+          }
+        ],
+        "friday": [
+          {
+            "timeStart": "12:00",
+            "timeEnd": "13:20",
+            "subject": "Вікно",
+            "teacher": "Викладач С.С.",
+            "location": "303 н.к.",
+            "type": "Лекція"
+          }
+        ]
+      }
+    },
+    "ПЗ-33": {
+      "schedule": {
+        "monday": [
+          {
+            "timeStart": "10:05",
+            "timeEnd": "11:25",
+            "subject": "Програмування штучного інтелекту для ігор",
+            "teacher": "Бауск",
+            "location": "411 В. н.к.",
+            "type": "Лекція",
+            "subgroup": "I"
+          },
+          {
+            "timeStart": "11:40",
+            "timeEnd": "13:00",
+            "subject": "Засоби програмування комп'ютерної графіки",
+            "teacher": "Журавчак",
+            "location": "809 В. н.к.",
+            "type": "Лекція",
+            "subgroup": "I"
+          }
+        ],
+        "tuesday": [
+          {
+            "timeStart": "11:40",
+            "timeEnd": "13:00",
+            "subject": "Засоби програмування комп'ютерної графіки",
+            "teacher": "Журавчак",
+            "location": "411 В. н.к.",
+            "type": "Лекція",
+            "subgroup": "II"
+          },
+          {
+            "timeStart": "13:15",
+            "timeEnd": "14:35",
+            "subject": "Програмування штучного інтелекту для ігор",
+            "teacher": "Бауск",
+            "location": "411 В. н.к.",
+            "type": "Лабораторна",
+            "subgroup": "II"
+          },
+          {
+            "timeStart": "14:50",
+            "timeEnd": "16:10",
+            "subject": "Програмування штучного інтелекту для ігор",
+            "teacher": "Бауск",
+            "location": "808 В. н.к.",
+            "type": "Лабораторна",
+            "subgroup": "II"
+          }
+        ],
+        "wednesday": [
+          {
+            "timeStart": "13:15",
+            "timeEnd": "14:35",
+            "subject": "Програмування штучного інтелекту для ігор",
+            "teacher": "Бауск",
+            "location": "808 В. н.к.",
+            "type": "Лекція",
+            "subgroup": "I"
+          },
+          {
+            "timeStart": "13:15",
+            "timeEnd": "14:35",
+            "subject": "Основи охорони праці та безпека життєдіяльності",
+            "teacher": "Литвиняк",
+            "location": "217 І. н.к.",
+            "type": "Лекція",
+            "subgroup": "I"
+          }
+        ],
+        "thursday": [
+          {
+            "timeStart": "14:50",
+            "timeEnd": "16:10",
+            "subject": "Засоби програмування комп'ютерної графіки",
+            "teacher": "Журавчак",
+            "location": "410 В. н.к.",
+            "type": "Лабораторна",
+            "subgroup": "I"
+          },
+          {
+            "timeStart": "16:25",
+            "timeEnd": "17:45",
+            "subject": "Засоби програмування комп'ютерної графіки",
+            "teacher": "Журавчак",
+            "location": "410 В. н.к.",
+            "type": "Лабораторна",
+            "subgroup": "II"
+          }
+        ]
+      }
+    },
+    "ПЗ-34": {
+      "schedule": {
+        "monday": [
+          {
+            "timeStart": "8:40",
+            "timeEnd": "9:40",
+            "subject": "Екзамен",
+            "teacher": "",
+            "location": "",
+            "type": "Екзамен"
+          },
+          {
+            "timeStart": "10:00",
+            "timeEnd": "11:25",
+            "subject": "Екзамен",
+            "teacher": "",
+            "location": "",
+            "type": "Екзамен"
+          },
+          {
+            "timeStart": "11:40",
+            "timeEnd": "12:00",
+            "subject": "Екзамен",
+            "teacher": "",
+            "location": "",
+            "type": "Екзамен"
+          }
+        ],
+        "tuesday": [
+          {
+            "timeStart": "12:15",
+            "timeEnd": "14:35",
+            "subject": "Основи охорони праці та безпека життєдіяльності",
+            "teacher": "Літнінгс",
+            "location": "2171",
+            "type": "Лекція"
+          }
+        ],
+        "wednesday": [
+          {
+            "timeStart": "14:50",
+            "timeEnd": "16:25",
+            "subject": "Сховища даних",
+            "teacher": "Білонівненко",
+            "location": "3211",
+            "type": "Лекція"
+          },
+          {
+            "timeStart": "16:25",
+            "timeEnd": "17:45",
+            "subject": "Хмаринні обчислення",
+            "teacher": "Тушинцкий",
+            "location": "3211",
+            "type": "Лекція"
+          }
+        ],
+        "thursday": [
+          {
+            "timeStart": "14:50",
+            "timeEnd": "16:25",
+            "subject": "Сховища даних",
+            "teacher": "Білонівненко",
+            "location": "810а В.",
+            "type": "Лабораторна"
+          },
+          {
+            "timeStart": "16:25",
+            "timeEnd": "17:45",
+            "subject": "Хмаринні обчислення",
+            "teacher": "Тушинцкий",
+            "location": "810а В.",
+            "type": "Лабораторна"
+          }
+        ],
+        "friday": [
+          {
+            "timeStart": "14:50",
+            "timeEnd": "16:25",
+            "subject": "Сховища даних",
+            "teacher": "Білонівненко",
+            "location": "810а В.",
+            "type": "Лабораторна"
+          },
+          {
+            "timeStart": "16:25",
+            "timeEnd": "17:45",
+            "subject": "Активація Windows",
+            "teacher": "",
+            "location": "Настройки",
+            "type": "Інше"
+          }
+        ]
+      }
+    }
+  },
+  "teachers": {
+    "Гавдульський": {
+      "schedule": {
+        "monday": [
+          {
+            "timeStart": "10:05",
+            "timeEnd": "11:25",
+            "subject": "Програмування для мобільних платформ",
+            "group": "ПЗ-31",
+            "location": "810в В. н.к.",
+            "type": "Лабораторна",
+            "subgroup": "I"
+          }
+        ],
+        "tuesday": [
+          {
+            "timeStart": "10:05",
+            "timeEnd": "11:25",
+            "subject": "Програмування для мобільних платформ",
+            "group": "ПЗ-31",
+            "location": "809 В. н.к.",
+            "type": "Лабораторна",
+            "subgroup": "II"
+          }
+        ]
+      }
+    },
+    "Білонівненко": {
+      "schedule": {
+        "wednesday": [
+          {
+            "timeStart": "14:50",
+            "timeEnd": "16:25",
+            "subject": "Сховища даних",
+            "group": "ПЗ-34",
+            "location": "3211",
+            "type": "Лекція"
+          }
+        ],
+        "thursday": [
+          {
+            "timeStart": "14:50",
+            "timeEnd": "16:25",
+            "subject": "Сховища даних",
+            "group": "ПЗ-34",
+            "location": "810а В.",
+            "type": "Лабораторна"
+          }
+        ],
+        "friday": [
+          {
+            "timeStart": "14:50",
+            "timeEnd": "16:25",
+            "subject": "Сховища даних",
+            "group": "ПЗ-34",
+            "location": "810а В.",
+            "type": "Лабораторна"
+          }
+        ]
+      }
+    },
+    "Тушинцкий": {
+      "schedule": {
+        "wednesday": [
+          {
+            "timeStart": "16:25",
+            "timeEnd": "17:45",
+            "subject": "Хмаринні обчислення",
+            "group": "ПЗ-34",
+            "location": "3211",
+            "type": "Лекція"
+          }
+        ],
+        "thursday": [
+          {
+            "timeStart": "16:25",
+            "timeEnd": "17:45",
+            "subject": "Хмаринні обчислення",
+            "group": "ПЗ-34",
+            "location": "810а В.",
+            "type": "Лабораторна"
+          }
+        ]
+      }
+    },
+    "Літнінгс": {
+      "schedule": {
+        "tuesday": [
+          {
+            "timeStart": "12:15",
+            "timeEnd": "14:35",
+            "subject": "Основи охорони праці та безпека життєдіяльності",
+            "group": "ПЗ-34",
+            "location": "2171",
+            "type": "Лекція"
+          }
+        ]
+      }
+    }
+  }
+}
