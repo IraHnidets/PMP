@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:student_life/views/teacherSchedule.dart';
@@ -17,10 +19,14 @@ import 'package:provider/provider.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'views/AddEventScreen.dart';
 
+
+
+// Оновлена функція main для коректної роботи з тестами
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await initializeDateFormatting();
   await Firebase.initializeApp();
+
 
   runApp(
     ChangeNotifierProvider(
@@ -196,17 +202,31 @@ class _HomeRouterState extends State<HomeRouter> {
       ),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
+        mainAxisSize: MainAxisSize.min,
         children: [
-          Image.asset(img, width: 60),
-          const SizedBox(height: 12),
+          Image.asset(
+            img,
+            width: 50,  // Зменшено розмір
+            height: 50, // Зменшено розмір
+            errorBuilder: (context, error, stackTrace) {
+              return Icon(
+                Icons.image,
+                size: 40,
+                color: isSelect ? Colors.white : const Color(0xFF526FAA),
+              );
+            },
+          ),
+          const SizedBox(height: 8),
           Text(
             label,
             style: TextStyle(
-              fontSize: 23,
+              fontSize: 18, // Зменшено розмір шрифту
               fontWeight: FontWeight.bold,
               color: isSelect ? Colors.white : const Color(0xFF526FAA),
             ),
-          )
+            overflow: TextOverflow.ellipsis,
+            textAlign: TextAlign.center,
+          ),
         ],
       ),
     );
