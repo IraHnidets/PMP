@@ -34,8 +34,6 @@ dependencies:
     sdk: flutter
   google_maps_flutter: ^2.5.0
 #  location: ^5.0.3
-  firebase_auth: ^5.5.2
-  firebase_core: ^3.13.0
   firebase_storage: ^12.4.5
   location: ^8.0.0
   firebase_messaging: ^15.2.5
@@ -49,11 +47,23 @@ dependencies:
   flutter_local_notifications: ^19.1.0
   intl: ^0.20.2
   timezone: ^0.10.0
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.3
+
+
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  integration_test:
+    sdk: flutter
+  mockito: ^5.4.2  # Для створення мок-об'єктів
+  build_runner: ^2.4.6  # Для генерації коду мок-об'єктів
+  firebase_auth_mocks: ^0.14.1  # Для мокування Firebase Auth
+  fake_cloud_firestore: ^3.1.0  # Для мокування Firestore
   flutter_lints: ^5.0.0
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
